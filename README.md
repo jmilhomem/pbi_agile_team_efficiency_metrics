@@ -17,7 +17,7 @@ The data is a sample of an hyphotetical agile's team. The data source is the Jir
 - Story Points
 
 ## Objective:
-- The objective of the project is to monitor and keep improving the performance of a team based on metrics, that are following described:
+The objective of the project is to monitor and keep improving the performance of a team based on metrics, that are following described:
   1. __Throughtput:__ Activities that were finalized and are "available to be used".
   2. __LeadTime:__ Quantity of days (business days) since the activity was "requested" by the consumer until the activity was developed and is "ready to be used".
   3. __Reaction Time:__ Quantity of days (business days) since the activity was "requested" by the consumer until it was prioritized to be developed.
@@ -48,7 +48,7 @@ Os dados são um _sample_ de um time hipotético. A origem de dados é o Jira Cl
 - Story Points
 
 ## Objetivo:
-- O objetivo é possibilitar análise de indicadores para monitorar e com isso, manter a melhoria continua com base em métricas, conforme descrito abaixo.
+O objetivo é possibilitar análise de indicadores para monitorar e com isso, manter a melhoria continua com base em métricas, conforme descrito abaixo.
   1. __Throughtput:__ Atividades que foram finalizadas e estão "disponíveis para utilização".
   2. __LeadTime:__ Quantidade de dias (úteis) desde que a atividade foi "solicitada" pelo cliente até desenvolvimento concluído da atividade ("pronta para ser usada").
   3. __Reaction Time:__ Quantidade de dias (úteis) desde que a atividade foi "solicitada" pelo cliente até atividade foi priorizada para ser desenvolvida.
